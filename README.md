@@ -1,2 +1,2 @@
-# bmjanuska.github.io
-Website
+# Basic-Portfolio-BMJ
+Homework #1
